@@ -2,6 +2,7 @@
 This is a free supporter collection resource for beginners to SPUM assets.
 
 ##**한국어 버젼 설명**
+
 SPUM Support Collection (이하 SSC) 는 Soonsoon 에서 제공하는 SPUM 과 함께 사용할 수 있는 리소스 모음입니다.
 
 SSC 의 사용을 위해서는 아래의 내용을 확인하셔야 합니다.
@@ -12,6 +13,7 @@ SSC 의 사용을 위해서는 아래의 내용을 확인하셔야 합니다.
 
 
 ##**Global Version Description**
+
 The SPUM Support Collection (SSC) is a collection of resources that can be used with SPUM provided by Soonsoon.
 
 In order to use SSC, you must check the following.
