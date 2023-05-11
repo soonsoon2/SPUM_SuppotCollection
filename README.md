@@ -21,6 +21,6 @@ The SPUM Support Collection (SSC) is a collection of resources that can be used 
 
 In order to use SSC, you must check the following.
 1. The resources provided by the repository can be used free of charge by anyone for personal/hobby development purposes.
-2. Anyone can use SPUM (paid/free) games without special permission.
+2. Anyone can use SPUM (paid/free version) games without special permission.
 3. It is absolutely impossible to process or use the resource to create, share or sell a new asset package.
 4. If you have any questions about other uses, please contact the creator's e-mail address below. soonsoon@soonsoons.com
